@@ -1,0 +1,12 @@
+{
+  "users": {
+    "ai_free_1d0d26f1cdf4a1f0c2910e73": {
+      "owner": "othmane",
+      "dailyLimit": 100,
+      "todayCount": 0,
+      "totalUsage": 0,
+      "active": true,
+      "createdAt": "2026-11-15T03:47:52.861Z"
+    }
+  }
+}
