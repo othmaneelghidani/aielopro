@@ -92,7 +92,7 @@ async function detectBestGeminiModel() {
     console.log('🤖 الموديلات المتاحة فحسابك:', supported.slice(0, 6).join(', '));
 
     // الترتيب الجديد على حساب تحديثات جوجل 2026
-    const preferred = ['gemini-3.8-flash', 'gemini-3.8-pro', 'gemini-3.5-flash', 'gemini-3.0-flash'];
+    const preferred = ['gemini-3.8-flash', 'gemini-3.8-pro', 'gemini-3.8-flash', 'gemini-3.8-flash'];
     for (const p of preferred) {
       const found = supported.find(s => s === p || s.startsWith(p));
       if (found) {
@@ -177,7 +177,7 @@ async function searchAndAnswerWithGemini(question, customInstruction = '') {
     CACHE.activeModel || 'gemini-3.8-flash',
     'gemini-3.8-flash',
     'gemini-3.8-pro',
-    'gemini-3.5-flash'
+    'gemini-3.8-flash'
   ])];
 
   const webContext = await freeWebSearch(question);
