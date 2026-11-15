@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "id": "a25903de7b0e",
+      "question": "سلام",
+      "normalized": "سلام",
+      "answer": "وعليكم السلام ورحمة الله وبركاته. \n\nأهلاً بك! كيف يمكنني مساعدتك اليوم؟",
+      "sources": [],
+      "embedding": null,
+      "askedBy": "زائر الموقع",
+      "hits": 1,
+      "createdAt": "2026-11-15T16:24:06.065Z"
+    },
+    {
       "id": "e0a4512ee553",
       "question": "slam",
       "normalized": "slam",
@@ -8,7 +19,7 @@
       "sources": [],
       "embedding": null,
       "askedBy": "زائر الموقع",
-      "hits": 1,
+      "hits": 3,
       "createdAt": "2026-11-15T16:08:05.493Z"
     },
     {
