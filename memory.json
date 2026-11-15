@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "id": "5d5265f5aeb3",
+      "question": "كيف الحال",
+      "normalized": "كيف الحال",
+      "answer": "أنا بخير وبأفضل حال، شكراً لسؤالك! \n\nأنا جاهز تماماً لمساعدتك، كيف يمكنني خدمتك اليوم؟",
+      "sources": [],
+      "embedding": null,
+      "askedBy": "زائر الموقع",
+      "hits": 1,
+      "createdAt": "2026-11-15T16:56:24.108Z"
+    },
+    {
       "id": "9ea6b2b56af4",
       "question": "الجيومورفلوجيا",
       "normalized": "الجيومورفلوجيا",
@@ -140,7 +151,7 @@
       "sources": [],
       "embedding": null,
       "askedBy": "زائر الموقع",
-      "hits": 1,
+      "hits": 2,
       "createdAt": "2026-11-15T05:18:58.266Z"
     },
     {
@@ -151,7 +162,7 @@
       "sources": [],
       "embedding": null,
       "askedBy": "زائر الموقع",
-      "hits": 2,
+      "hits": 3,
       "createdAt": "2026-11-15T04:13:36.427Z"
     }
   ]
